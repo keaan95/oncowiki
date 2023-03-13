@@ -4,7 +4,7 @@ OncoWiki is a cancer drug pathway simulator using gene-expression based data and
 
 This is the first build of OncoWiki by Keaan Amin. This was completed in 2016 as his final year Undergradaute BSc (Hons) Biomedical Science at Plymouth University thesis.
 
-This is currently accessible [here](http://oncopia.co.uk/oncowiki/).
+This is currently accessible [here](http://www.keaan.co.uk/oncowiki/).
 Password is `psq`
 
 This work and Keaan's comments helped towards the Publication of OncoWiki as Medical Education project in 2019. Please do read further here (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836658/).
